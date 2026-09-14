@@ -1,5 +1,7 @@
 # Maks Lapshin
 
+![Аватар](./avatar.jpg)
+
 **Junior Frontend Developer**
 
 - 📧 Email: newstepms@yandex.ru
